@@ -34,6 +34,7 @@
 - **Peer Influence**: Study group participants averaged 8% higher scores than individual studiers
 - **Time Management**: Students submitting assignments early averaged 10% higher scores
 
+
 ### Influencing Variables:
 
 - Course workload distribution across semester
